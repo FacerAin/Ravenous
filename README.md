@@ -1,2 +1,2 @@
 # Ravenous
-React.js Project for practice at codecademy.
+React.js Project for practice
